@@ -1,0 +1,70 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jun  6 14:32:13 2017
+
+@author: benjamin
+"""
+
+mapping_dict = {
+                'H4O2-2_H2O-4_layer':'0.5ML H$_2$O',
+                'O4-full_O2_coverage-4_layer':'0.5ML O$_2$',
+                'N4-N2_1ML-4_layer': '0.5ML N$_2$',
+                'NH3-test-4_layer':'0.25ML NH$_3$',
+                'N2H6-2_NH3-4_layer':'0.5ML NH$_3$',
+#                'HONNOH-test-4_layer': '0.5ML HO-NN-OH',
+                'N2H-test-4_layer': '0.5ML N$_2$H',
+#                'HNOH-test-4_layer': '0.25ML HN-OH',
+                'N2O2-test-4_layer': '0.5ML ONNO',
+                'O2-test-4_layer': '0.25ML O$_2$',
+                'NO-angle_try-4_layer': '0.25ML NO',
+#                'OHNNHOH-test-4_layer': '0.25ML HO-HNNH-OH',
+                'HNNH-bridge_Ti-4_layer': '0.25ML HNNH',
+                'OH-test-4_layer': '0.25ML OH',
+#                'OHNNHOH-test-4_layer':'0.25ML HO-NNOH',
+#                'NNOH-test-4_layer': '0.25ML NNOH',
+#                'NNH2-test-4_layer': '0.25ML NNH2',
+                'NH2OH-test-4_layer': '0.25ML H$_2$N-OH',
+#                'OHNNHO-test-4_layer': '0.25ML OHNN-OH',
+                'O-test-4_layer': '0.25ML O',
+#                'ONNHO-test-4_layer': '0.5ML HO-NNO',
+#                'NOH-test-4_layer': '0.25ML N-OH',
+                'NH2O-test2-4_layer': '0.25ML NH$_2$O',
+#                'HNNHO-test-4_layer': '0.25ML NHHOH',
+#                'HNNO-test-4_layer': '0.25ML HNNO',
+#                'HOHNNH2-test-4_layer': '0.5ML HO-HNNH2',
+                'NH2-test-4_layer': '0.25ML NH$_2$',
+                'NH-test-4_layer': '0.25ML NH',
+                'N2-test-4_layer': '0.25ML N$_2$',
+                'H2NNH-test-4_layer': '0.25ML H$_2$NNH',
+#                'HONNH-test-4_layer': '0.25ML HO-NNH',
+                'NH3-test-4_layer': '0.25ML NH$_3$',
+                'H2NNH2-test-4_layer': '0.5ML H$_2$NNH$_2$',
+                'N-over_O-4_layer': '0.25ML N',
+#                'OHNNOH-test-4_layer':'0.25ML OHNNHO',
+#                'H2NNOH-test-4_layer': '0.25ML HO-NNH2',
+#                'HOHNNH-test2-4_layer': '0.25ML HO-HNNH',
+                'ONH-test-4_layer': '0.25ML ONH',
+                'N2O-test-4_layer': '0.25ML N$_2$O',
+                'H-ads_BO-4_layer': '0.25ML H',
+#                'ONNH2-test-4_layer': '0.25ML ONNH2',
+                'H2O-test-4_layer': '0.25ML H$_2$O',
+#                'ONNHOH-test-4_layer': '0.5ML HO-HNNO',
+#                'NNHOH-test-4_layer': '0.25ML NNH-OH',
+#                'ONNOH-test-4_layer': '0.5ML ONN-OH',
+                'N2O-Ti_fliped-4_layer': '0.25ML N$_2$O',
+                'slab-slab-4_layer': 'bare surface',
+                'NO2-Ti_flipped-4_layer': '0.25ML NO$_2$',
+                'NO2-test-4_layer': '0.25ML NO$_2$',
+                'H2O-dissociated-4_layer': '0.25ML dis-H$_2$O',
+                'N2-test-d_4_layer': 'defect ads N$_2$',
+                'N2H-test-d_4_layer': 'defect ads N$_2$H',
+                'HNNH-test-d_4_layer': 'defect ads HNNH',
+                'HNNH2-test-d_4_layer': 'defect ads H$_2$NNH',
+                'H2NNH2-test-d_4_layer': 'defect ads H$_2$NNH',
+                'NH3-test-d_4_layer': 'defect ads NH$_3$',
+                'NH2-over_vac_2_int-d_4_layer': 'defect ads NH$_2$',
+                
+
+
+
+}
